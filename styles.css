@@ -22,6 +22,11 @@ body{
   font-family: 'Montserrat', sans-serif;
 }
 
+h1 {
+  font-family: "Times New Roman";
+  letter-spacing: 3px;
+}
+
 @font-face {
   font-family: "Azonix";
   src: url(WebsiteActual/Azonix-1VB0.otf) format("truetype");
